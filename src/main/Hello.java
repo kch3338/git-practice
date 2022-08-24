@@ -7,7 +7,7 @@ public class Hello {
 		System.out.println("hi");
 		System.out.println("안녕");
 		
-		System.out.println("practice3");
+		System.out.println("practice4");
 	}
 
 }
